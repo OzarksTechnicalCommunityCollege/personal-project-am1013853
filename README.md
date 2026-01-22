@@ -2,3 +2,4 @@
 # CSC_161_Personal_Project
 
 # Sanrio Shop
+A shopping platform for all Sanrio lovers! (Hello Kitty, Cinnamoroll, Kuroooooomi, etc..)
